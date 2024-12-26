@@ -1,0 +1,135 @@
+body {
+    background-color: #111;
+    color:  white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.maindiv {
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+    width: 750px;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo1div {
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+    width: 100px;
+    height: 100px;
+    margin-left: 2px;
+    margin-top: 2px;
+    float: left;
+    text-align: center;
+}
+
+.bannerdiv {
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+    width: 530px;
+    height: 100px;
+    margin-left: 2px;
+    margin-top: 2px;
+    float: left;
+    text-align: center;
+    line-height: 50px;
+}
+
+.logo2div {
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+    width: 100px;
+    height: 100px;
+    margin-right: 2px;
+    margin-top: 2px;
+    float: right;
+    text-align: center;
+}
+
+.list
+{
+    clear: both;
+    height: 40px;
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+    width: 742px;
+    height: 100px;
+    margin-left: 2px;
+    margin-top: 2px;
+    float: left;
+    text-align: center;
+}
+
+.menu
+{
+    list-style: none;
+    margin: 0px;
+}
+
+.menu li,a
+{
+    color: white;
+    float: left;
+    display: inline;
+    text-decoration: none;
+    text-align: center;
+    margin: 20px;
+}
+
+.leftdiv {
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+    width: 200px;
+    height: 500px;
+    margin-left: 2px;
+    margin-top: 2px;
+    float: left;
+    text-align: center;
+}
+
+.centerdiv {
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+    width: 332px;
+    height: 500px;
+    margin-left: 2px;
+    margin-top: 2px;
+    float: left;
+    text-align: center;
+}
+
+.rightdiv {
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+    width: 200px;
+    height: 500px;
+    margin-left: 2px;
+    margin-top: 2px;
+    float: right;
+    text-align: center;
+}
+
+.footerdiv {
+    clear: both;
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+    width: 742px;
+    height: 73px;
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    float: left;
+    text-align: center;
+    line-height: 40px;
+}
