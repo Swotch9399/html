@@ -37,6 +37,7 @@ body {
     float: left;
     text-align: center;
     line-height: 50px;
+    text-shadow: 0 0 50px white;
 }
 
 .logo2div {
@@ -82,12 +83,28 @@ body {
     margin: 20px;
 }
 
+.btn {
+    background-color: #111;
+    color: white;
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+}
+
+.btn:hover {
+    background-color: white;
+    color: #111;
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+}
+
 .leftdiv {
     border: 2px;
     border-style: solid;
     border-color: white;
-    width: 200px;
-    height: 500px;
+    width: 198px;
+    height: 200px;
     margin-left: 2px;
     margin-top: 2px;
     float: left;
@@ -98,8 +115,8 @@ body {
     border: 2px;
     border-style: solid;
     border-color: white;
-    width: 332px;
-    height: 500px;
+    width: 334px;
+    height: 200px;
     margin-left: 2px;
     margin-top: 2px;
     float: left;
@@ -110,16 +127,29 @@ body {
     border: 2px;
     border-style: solid;
     border-color: white;
-    width: 200px;
-    height: 500px;
+    width: 198px;
+    height: 200px;
     margin-left: 2px;
+    margin-right: 2px;
     margin-top: 2px;
     float: right;
     text-align: center;
 }
 
+.centerdiv2 {
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+    width: 742px;
+    height: 295px;
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-top: 2px;
+    float: left;
+    text-align: center;
+}
+
 .footerdiv {
-    clear: both;
     border: 2px;
     border-style: solid;
     border-color: white;
